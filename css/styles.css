@@ -72,6 +72,13 @@ a {
         text-decoration: none;
     }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
 .btn {
     border: 0px;
     border-radius: 0px;
@@ -345,6 +352,8 @@ a {
     padding-top: 5px;
 }
 /* ------- */
+
+
 
 .isotopeWrapper article {
     margin-bottom: 30px;
