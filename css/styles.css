@@ -359,12 +359,27 @@ a {
 
 .sponsor {
      max-width: 33%; 
-     max-height: 100%; 
+     max-height: 100%;
      display: inline-block;
 }
 
 /* ------- */
 
+/* Useful links
+    ---------------------------------------------------*/
+
+.links {
+     width: 25%; 
+     min-width: 300px;
+     max-height: 100%;
+     font-size: 35px;
+     display: inline-block;
+     vertical-align: middle;
+     border: 4px dashed #f69c55;
+     margin: 3%;
+}
+
+/* ------- */
 
 .isotopeWrapper article {
     margin-bottom: 30px;
