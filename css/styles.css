@@ -354,6 +354,16 @@ a {
 }
 /* ------- */
 
+/* Sponsors
+    ---------------------------------------------------*/
+
+.sponsor {
+     max-width: 33%; 
+     max-height: 100%; 
+     display: inline-block;
+}
+
+/* ------- */
 
 
 .isotopeWrapper article {
